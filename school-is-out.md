@@ -28,3 +28,13 @@ Create a variable called is_weekday and a variable called is_holiday and set the
 ## School-is-out
 Use an ``|logid:if else||`` code to determine whether there is school today and then print the results.
 You should prints the results based on the values of is_weekday and is_holiday in an ``||adventure:add text to textlog||``.
+
+```python
+  is_weekday = game.ask("Is it a weekday?","OK = True, Cancel = False")
+  is_holiday = game.ask("Is it a holiday?","OK = True, Cancel = False")
+  #You should complete what goes in this if else
+  if True:
+    pass
+  else:
+    pass
+```
