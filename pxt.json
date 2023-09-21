@@ -10,7 +10,8 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "main.py"
+        "main.py",
+        "school-is-out.md"
     ],
     "testFiles": [
         "test.ts"
