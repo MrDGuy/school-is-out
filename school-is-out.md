@@ -34,7 +34,7 @@ You should prints the results based on the values of is_weekday and is_holiday i
   is_holiday = game.ask("Is it a holiday?","OK = True, Cancel = False")
   #You should complete what goes in this if else
   if True:
-    pass
+    adventure.add_to_textlog("")
   else:
-    pass
+    adventure.add_to_textlog("")
 ```
